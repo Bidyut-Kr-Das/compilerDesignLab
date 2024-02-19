@@ -1,0 +1,5 @@
+# Ignore lex.yy.c file
+lex.yy.c
+
+# Ignore all .out files
+*.out
