@@ -13,6 +13,7 @@ int yywrap() {
     return 1;
 }
 
-int main() {
+void main() {
+    printf("Enter the input: ");
     yylex();
 }
