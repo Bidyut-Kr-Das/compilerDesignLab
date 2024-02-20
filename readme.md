@@ -19,3 +19,11 @@ Write a program in lex to print all the factors of a number. Take input from the
 > Assignment 3
 
 Write a program in lex to print all the factors and check wheather the number is perfect or not.
+
+> Assignment 4
+
+Write a program in lex to check the given input is a valid keyword or not.
+
+> Assignment 5
+
+Write a program in lex to count total number of keyword of a given string.
