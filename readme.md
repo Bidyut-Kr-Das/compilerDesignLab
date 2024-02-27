@@ -27,3 +27,12 @@ Write a program in lex to check the given input is a valid keyword or not.
 > Assignment 5
 
 Write a program in lex to count total number of keyword of a given string.
+
+> Assignment 6
+
+Write a program in lex to calculate the sum of digits of a number taken as input from the user.
+
+> Assignment 7
+
+Write a program in lex to convert decimal number to binary.
+(if code is showing other number than binary then the binary value of that number is greater than integer limit. Use array for those cases.)
