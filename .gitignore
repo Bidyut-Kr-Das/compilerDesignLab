@@ -3,3 +3,6 @@ lex.yy.c
 
 # Ignore all .out files
 *.out
+
+# vscode settings change
+# .vscode
