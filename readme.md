@@ -34,5 +34,6 @@ Write a program in lex to calculate the sum of digits of a number taken as input
 
 > Assignment 7
 
-Write a program in lex to convert decimal number to binary.
-(if code is showing other number than binary then the binary value of that number is greater than integer limit. Use array for those cases.)
+Write a program in lex to convert decimal number to binary.</br>
+
+`(if code is showing other number than 0 and 1 then the binary value of that number is greater than integer limit and showing garbage value. Use array for those cases.)`
