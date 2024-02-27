@@ -5,4 +5,5 @@ lex.yy.c
 *.out
 
 # vscode settings change
-# .vscode
+.vscode/*
+
