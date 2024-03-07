@@ -36,3 +36,11 @@ Write a program in lex to calculate the sum of digits of a number taken as input
 
 Write a program in lex to convert decimal number to binary.</br>
 `(if code is showing other number than 0 and 1 then the binary value of that number is greater than integer limit and showing garbage value. Use array for those cases.)`
+
+> Assignment 8
+
+Write a program in lex to identify the type of operator.
+
+> Assignment 9
+
+Write a program in lex to calculate total number of character, word, newline and space in a given string.
