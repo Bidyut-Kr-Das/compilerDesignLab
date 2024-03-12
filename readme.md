@@ -44,3 +44,11 @@ Write a program in lex to identify the type of operator.
 > Assignment 9
 
 Write a program in lex to calculate total number of character, word, newline and space in a given string.
+
+> Assignment 10
+
+Write a program in lex to check wheather a string is palindrome or not.
+
+> Assignment 11
+
+Write a program in lex to check wheather the number is prime or not.
