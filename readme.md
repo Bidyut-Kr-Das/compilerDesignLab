@@ -3,7 +3,7 @@
 - Steps to compile and run the program
 
 1. `lex <filename>.l` &#8592; Compiles the file into c
-2. `gcc lex.yy.c` &#8592; Compiles the c file into an executable
+2. `gcc lex.yy.c -ll` &#8592; Compiles the c file into an executable
 3. `./a.out` &#8592; Runs the executable
 
 ### Questions
