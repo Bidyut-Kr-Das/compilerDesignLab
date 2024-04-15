@@ -52,3 +52,11 @@ Write a program in lex to check wheather a string is palindrome or not.
 > Assignment 11
 
 Write a program in lex to check wheather the number is prime or not.
+
+> Assignment 12
+
+Write a program in lex to check wheather a given string starting with vowel or not.
+
+> Assignment 13
+
+Write a program in lex to check wheather a given expression is valid arithmatic expression or not.
