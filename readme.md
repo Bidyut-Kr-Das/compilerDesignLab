@@ -60,3 +60,11 @@ Write a program in lex to check wheather a given string starting with vowel or n
 > Assignment 13
 
 Write a program in lex to check wheather a given expression is valid arithmatic expression or not.
+
+> Assignment 14
+
+Write a program in lex to search a word from a file.
+
+> Assignment 15
+
+Write a program in lex to check wheather "bb" is present in the given string or not.
