@@ -68,3 +68,7 @@ Write a program in lex to search a word from a file.
 > Assignment 15
 
 Write a program in lex to check wheather "bb" is present in the given string or not.
+
+> Assignment 16
+
+Write a program in lex to count frequency of a perticular word in a given file.
