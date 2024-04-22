@@ -63,7 +63,8 @@ Write a program in lex to check wheather a given expression is valid arithmatic 
 
 > Assignment 14
 
-Write a program in lex to search a word from a file.
+Write a program in lex to search a word from a file.</br>
+**(Create `input.txt` in same folder as the code and add random words or sentences in it)**
 
 > Assignment 15
 
@@ -71,4 +72,5 @@ Write a program in lex to check wheather "bb" is present in the given string or 
 
 > Assignment 16
 
-Write a program in lex to count frequency of a perticular word in a given file.
+Write a program in lex to count frequency of a perticular word in a given file.</br>
+**(Create `input.txt` in same folder as the code and add random words or sentences in it)**
