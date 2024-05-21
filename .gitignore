@@ -1,5 +1,7 @@
 # Ignore lex.yy.c file
 lex.yy.c
+y.tab.c
+y.tab.h
 
 # Ignore all .out files
 *.out
@@ -7,4 +9,3 @@ lex.yy.c
 # vscode settings change
 .vscode/*
 
-*.txt

@@ -74,3 +74,19 @@ Write a program in lex to check wheather "bb" is present in the given string or 
 
 Write a program in lex to count frequency of a perticular word in a given file.</br>
 **(Create `input.txt` in same folder as the code and add random words or sentences in it)**
+
+> Assignment 17
+
+Write a program in lex that accepts the string with zero only
+
+> Assignment 18
+
+Write a program in lex to count no of even and odd from the file.
+
+> Assignment 19
+
+Write a code in yacc to check valid identifier or not.
+
+> Assignment 20
+
+Write a code in YACC to recognise string with grammar{a^nb^n|n>=0}
