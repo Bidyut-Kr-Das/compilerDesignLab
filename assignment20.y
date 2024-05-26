@@ -13,7 +13,7 @@ S: A S B |
 ;
 %%
 int yyerror(char * msg){
-    printf("invalid string");
+    printf("invalid string\n");
     exit(0);
 }
 void main(){
