@@ -13,7 +13,7 @@
 - Steps to compile and run the program
 
 1. `lex <filename>.l` &#8592; Compiles the lex file
-2. `yacc <filename>.y` &#8592; Compiles the yacc file
+2. `yacc -d <filename>.y` &#8592; Compiles the yacc file
 3. `gcc lex.yy.c y.tab.c` &#8592; Compiles the c file into an executable
 4. `./a.out` &#8592; Runs the executable
 
