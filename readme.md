@@ -89,4 +89,8 @@ Write a code in yacc to check valid identifier or not.
 
 > Assignment 20
 
-Write a code in YACC to recognise string with grammar{a^nb^n|n>=0}
+Write a code in YACC to recognise string with grammar {a^nb^n|n>=0}
+
+> Assignment 21
+
+Write a program in lex to replace a word in a file with another word and store it to another file.
